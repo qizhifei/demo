@@ -1,0 +1,8 @@
+{
+    "name": "qizhifei/demo",
+    "description": "a test demo",
+    "type": "project",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {}
+}
